@@ -4,10 +4,12 @@ Create an interactive navigation menu for the SkillCraft Technology landing page
 Changes color and style when the user scrolls down the page
 Has hover effects on each menu item
 Stays fixed at the top and remains visible on all pages
+
 🛠 Tech Stack
 HTML5 — Structure
 CSS3 — Styling, transitions, responsive design
 JavaScript — Scroll detection, active link highlighting, mobile menu toggle
+
 ✨ Features Implemented
 Feature	Detail
 Fixed Navbar	position: fixed keeps nav visible while scrolling
@@ -17,6 +19,8 @@ Active Link	Current section's link is automatically highlighted
 Responsive	Hamburger menu on mobile, full links on desktop
 Smooth Scroll	Clicking a nav link scrolls smoothly to the section
 Hamburger Animation	Three bars animate into an X when menu opens
+
+
 📂 File Structure
 SCT_WD_1/
 ├── index.html # Page structure & nav markup
